@@ -11,7 +11,7 @@ require (
 	github.com/tidwall/pretty v1.0.1
 	github.com/tidwall/sjson v1.1.1
 	github.com/urfave/cli/v2 v2.3.0
-	google.golang.org/genproto v0.0.0-20210510173355-fb37daa5cd7a
-	google.golang.org/grpc v1.37.1
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f
+	google.golang.org/grpc v1.53.0
 	gopkg.in/yaml.v2 v2.4.0
 )
